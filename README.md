@@ -10,3 +10,4 @@ My solutions to Advent of Code 2019 `@janetmndz`
 | Challenge                          | Stars Obtained    |
 |------------------------------------|-------------------|
 | [The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1) | ⭐️ ⭐️ | 
+| [1202 Program Alarm](https://adventofcode.com/2019/day/2) | ⭐️ |
