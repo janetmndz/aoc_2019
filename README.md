@@ -11,3 +11,4 @@ My solutions to Advent of Code 2019 `@janetmndz`
 |------------------------------------|:-----------------:|
 | [The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1) | ⭐️ ⭐️ | 
 | [1202 Program Alarm](https://adventofcode.com/2019/day/2) | ⭐️ ⭐️ |
+| [Crossed Wires](https://adventofcode.com/2019/day/3) |  |
